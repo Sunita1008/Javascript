@@ -1,6 +1,8 @@
 console.log("Welcome first JS");
+
+
 //JS is dynamically typed language
-//var, let , const
+//var, let , const----------------------------------------------
 /*var  -> can be redeclared and updated. Is a global scope variable
 
 let ->cannot be redeclared but can be updated. Is a block scope variable
@@ -31,7 +33,7 @@ console.log(typeof a);//typeof tell the type of data
 const pi=3.14 //const have to have a value
 console.log(pi);
 
-//Objects
+//Objects --------------------------------------------------------------------------------------------
 
 const student={
     firstName:"Sunita",
